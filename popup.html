@@ -1,0 +1,33 @@
+<body>
+  <div id="app">
+    <h2>Timer</h2>
+
+    <div id="presets">
+      <button class="preset" data-min="1">1 min</button>
+      <button class="preset" data-min="2">2 min</button>
+      <button class="preset" data-min="5">5 min</button>
+      <button class="preset" data-min="10">10 min</button>
+      <button class="preset" data-min="15">15 min</button>
+    </div>
+
+    <input type="number" id="minutes" placeholder="Custom minutes" min="1" />
+    <button id="start">Start Timer</button>
+
+    <div style="margin-top: 8px;">
+      <label>
+        <input type="checkbox" id="videoOverlayToggle" />
+        Show progress bar on video
+      </label>
+    </div>
+
+    <div id="countdownArea" style="display: none;">
+      <div id="countdownDisplay">00:00</div>
+      <progress id="progressBar" value="0" max="100"></progress>
+    </div>
+
+
+    <p id="status"></p>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
