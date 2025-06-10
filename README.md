@@ -17,7 +17,7 @@ A Chrome extension that automatically pauses your streaming video (YouTube, Netf
 5. Done! The timer popup will now be available in your extensions bar
 
 🚀 Usage
-1. Open a streaming site (like Disney+ Hotstar, YouTube, etc.)
+1. Open a streaming site (like Netflix, YouTube, etc.)
 2. Click the extension icon
 3. Choose a preset timer or enter custom minutes
 4. Optionally check **"Show progress bar on video"**
