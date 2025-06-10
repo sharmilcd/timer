@@ -1,6 +1,6 @@
 ⏸️ Timer for Streaming
 
-A Chrome extension that automatically pauses your streaming video (Hotstar, YouTube, etc.) after a set time.
+A Chrome extension that automatically pauses your streaming video (YouTube, Netflix, Hotstar, etc.) after a set time.
 
 🎯 Features
 - ⏱️ Set a timer (custom or quick presets: 1, 2, 5, 10, 15 mins)
